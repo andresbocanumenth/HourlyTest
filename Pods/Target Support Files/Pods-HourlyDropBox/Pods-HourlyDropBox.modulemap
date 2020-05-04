@@ -1,0 +1,6 @@
+framework module Pods_HourlyDropBox {
+  umbrella header "Pods-HourlyDropBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
